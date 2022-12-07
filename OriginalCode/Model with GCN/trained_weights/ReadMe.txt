@@ -1,0 +1,2 @@
+This folder should contain multiple saved models trained using the Gabor networks over multiple datasets.
+Since we are not using the Gabor Convolutional Networks and these models are over 300MB in size, we deleted them to facilitate our submission process.
